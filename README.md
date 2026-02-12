@@ -1,3 +1,4 @@
+lsd;lxs;lzdn;ksnd;kndlkbs;zdnwljs
 # team-docs-sm
 
 ## Описание проекта
