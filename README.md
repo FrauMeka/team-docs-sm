@@ -1,17 +1,16 @@
-lsd;lxs;lzdn;ksnd;kndlkbs;zdnwljs
 # team-docs-sm
-gyhvbhcbxjvb
+
 ## Описание проекта
-Здесь общее описание...
-cccccddd
+
 ## Команда
 Saadat Nurbekova COMCEH-23
-cccccc
-Meerim
 
 ## Стек технологий
 Java
 
-## Инструкции по запуску
-Здесь шаги для запуска...
+## Setup Instructions
+Update the system repository and install dependencies using sudo apt update && sudo apt install docker-compose -y.
 
+Build and launch the application containers in detached mode with docker-compose up --build -d.
+
+Verify the deployment by running docker ps to ensure all services are healthy and active.
