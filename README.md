@@ -1,13 +1,16 @@
-lsd;lxs;lzdn;ksnd;kndlkbs;zdnwljs
+
 # team-docs-sm
-gyhvbhcbxjvb
+
+
 ## Описание проекта
-Здесь общее описание...
-cccccddd
+A high-performance web server infrastructure designed for secure, containerized application
+ hosting and automated load balancing.
+
 ## Команда
-Saadat Nurbekova COMCEH-23
-cccccc
-Meerim
+Saadat Nurbekova - DevOps Architect
+
+Meerim Sarbalieva - DevOps Architect
+
 
 ## Стек технологий
 Java
