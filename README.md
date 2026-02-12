@@ -1,14 +1,17 @@
-lsd;lxs;lzdn;ksnd;kndlkbs;zdnwljs
+
 # team-docs-sm
 
 ## Описание проекта
-Здесь общее описание...
+A high-performance web server infrastructure designed for secure, containerized application
+ hosting and automated load balancing.
 
 ## Команда
-Saadat Nurbekova COMCEH-23
+Saadat Nurbekova - DevOps Architect
+Meerim Sarbalieva - Lead Systems Engineer
 
 ## Стек технологий
-Здесь технологии...
+Linux
+Docker
 
 ## Инструкции по запуску
 Здесь шаги для запуска...
